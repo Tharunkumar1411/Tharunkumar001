@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hey guys, I'm Tharunkumar 👋
 
-<!--
-**Tharunkumar001/Tharunkumar001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently committed to Web Development and love to code. Pursuing 3rd year CS Engineering @VCET. Eager to learn new technologies. Yeah, I'm taking the time to learn new things but understand the basics thoroughly.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently Looking for an opportunity to express myself...
+- 🌱 I’m currently learning Web Developement (MERN)...
+- 📫 reach me out: tharung1411@gmail.com
+- 😄 Pronouns: Never Say Never
+- ⚡ Fun fact: Actualy im committed with web because my ex..😂🙂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience:
+
+      Have 1 month internship experience.
+      Have 1 month Freelancing expeirence.
+  
+### Projects:
+
+      1. Grievence Management System - For to express/complaint about their working enviroment problems to grievence comitte.
+
+      Link: https://grievence-complaints.netlify.app/
+  
+### Achievements:
+
+    - Successfully completed my 1 year learning of web developement😉
+    - Successfully completed DBMS course @NPTEL
+    - Successfully completed SOFT SKILLS course @NPTEL
+
