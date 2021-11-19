@@ -25,3 +25,4 @@ Currently committed to Web Development and love to code. Pursuing 3rd year CS En
     - Successfully completed DBMS course @NPTEL
     - Successfully completed SOFT SKILLS course @NPTEL
 
+https://api.daily.dev/devcards/e95585f50d634815b35f9b584fdd5025.png?r=0pu
