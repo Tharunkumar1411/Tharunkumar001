@@ -24,5 +24,5 @@ Currently committed to Web Development and love to code. Pursuing 3rd year CS En
     - Successfully completed my 1 year learning of web developement😉
     - Successfully completed DBMS course @NPTEL
     - Successfully completed SOFT SKILLS course @NPTEL
-
-https://api.daily.dev/devcards/e95585f50d634815b35f9b584fdd5025.png?r=0pu
+    
+<a href="https://app.daily.dev/Tharunkumar"><img src="https://api.daily.dev/devcards/e95585f50d634815b35f9b584fdd5025.png?r=0pu" width="400" alt="Tharunkumar G's Dev Card"/></a>
