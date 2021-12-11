@@ -6,7 +6,6 @@ Currently committed to Web Development and love to code. Pursuing 3rd year CS En
 - 🌱 I’m currently learning Web Developement (MERN)...
 - 📫 reach me out: tharung1411@gmail.com
 - 😄 Pronouns: Never Say Never
-- ⚡ Fun fact: Actualy im committed with web because my ex..😂🙂
 
 ### Experience:
 
