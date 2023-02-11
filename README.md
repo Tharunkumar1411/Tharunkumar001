@@ -1,6 +1,6 @@
 ### Hey guys, I'm Tharunkumar 👋
 
-I am a web developer who had more familiar with frontend and basic knowledge in the backend. I am a fresher, BE-CSE 2023 passed-out student. One year of learning experience in MERN STACK technologies. Eager to learn new technologies. Yeah, I'm taking the time to learn new things but understand the basics thoroughly.
+I am a web developer who had more familiar with frontend and basic knowledge in the backend. I am a BE-CSE 2023 passed-out student. One year of learning experience in MERN STACK technologies. Eager to learn new technologies. Yeah, I'm taking the time to learn new things but understand the basics thoroughly.
 
 - 🔭 I’m currently Looking for an opportunity to express myself...
 - 🌱 I’m currently working with MERN stack technologies...
