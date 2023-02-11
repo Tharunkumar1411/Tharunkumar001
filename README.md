@@ -10,7 +10,7 @@ Currently committed to Web Development and love to code. Pursuing 3rd year CS En
 ### Experience:
 
       Have 1 month internship experience.
-      Have 1 month Freelancing expeirence.
+      Have 4 month Freelancing expeirence.
   
 ### Projects:
 
