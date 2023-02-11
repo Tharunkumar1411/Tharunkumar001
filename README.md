@@ -1,9 +1,9 @@
 ### Hey guys, I'm Tharunkumar 👋
 
-Currently committed to Web Development and love to code. Pursuing 3rd year CS Engineering @VCET. Eager to learn new technologies. Yeah, I'm taking the time to learn new things but understand the basics thoroughly.
+I am a web developer who had more familiar with frontend and basic knowledge in the backend. I am a fresher, BE-CSE 2023 passed-out student. One year of learning experience in MERN STACK technologies. Eager to learn new technologies. Yeah, I'm taking the time to learn new things but understand the basics thoroughly.
 
 - 🔭 I’m currently Looking for an opportunity to express myself...
-- 🌱 I’m currently learning Web Developement (MERN)...
+- 🌱 I’m currently working with MERN stack technologies...
 - 📫 reach me out: tharung1411@gmail.com
 - 😄 Pronouns: Never Say Never
 
@@ -13,14 +13,15 @@ Currently committed to Web Development and love to code. Pursuing 3rd year CS En
       Have 4 month Freelancing expeirence.
   
 ### Projects:
-
-      1. Grievence Management System - For to express/complaint about their working enviroment problems to grievence comitte.
-
-      Link: https://grievence-complaints.netlify.app/
       
-      2. Site Pylamp - Official site for club Pylamp.
+      1. Site Pylamp - Official site for club Pylamp.
       
       Link: https://pylamp-official.vercel.app/
+      
+      
+      2. Grievence Management System - For to express/complaint about their working enviroment problems to grievence comitte.
+
+      Link: https://grievence-complaints.netlify.app/
   
 ### Achievements:
 
